@@ -3480,6 +3480,14 @@
   "file": "covers/millsage/Everscape.webp"
  },
  {
+  "id": "millsage-odd-dice",
+  "title": "Odd Dice",
+  "jp": "",
+  "band": "millsage",
+  "variant": false,
+  "file": "covers/millsage/Odd Dice.webp"
+ },
+ {
   "id": "mugendai-mewtype-face-the-next",
   "title": "Face The Next",
   "jp": "",
